@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/lblid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="ID :"
+        android:textColor="#173B64"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/idL"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="ID :"
+        android:textColor="#173B64" />
+
+
+    <TextView
+        android:id="@+id/lblusuarioNome"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="USUARIO NOME :"
+        android:textColor="#173B64"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/usuarioNomeL"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="USUARIO NOME :"
+        android:textColor="#173B64" />
+
+
+    <TextView
+        android:id="@+id/lblsenha"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="SENHA :"
+        android:textColor="#173B64"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/senhaL"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="SENHA :"
+        android:textColor="#173B64" />
+
+    <TextView
+        android:id="@+id/lbltipoUsuario"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="TIPO USUARIO :"
+        android:textColor="#173B64"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tipoUsuarioL"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="TIPO USUARIO :"
+        android:textColor="#173B64" />
+
+
+    <TextView
+        android:id="@+id/lbltoken"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="TOKEN :"
+        android:textColor="#173B64"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tokenL"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="TOKEN :"
+        android:textColor="#173B64" />
+
+</LinearLayout>
